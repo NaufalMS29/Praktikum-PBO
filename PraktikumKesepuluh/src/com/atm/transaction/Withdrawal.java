@@ -4,7 +4,7 @@ import com.atm.model.Account;
 import java.util.Scanner;
 
 public class Withdrawal extends Transaction {
-    private static final double minimum_saldo = 50000;
+    private static final double MINIMUM_SALDO = 50000;
     private Account account;
 
     public Withdrawal(Account account) {
