@@ -14,7 +14,7 @@
 # Menambahkan fitur ubah pin
 fitur ubah terdapat pada Account.java
 Account.java
-![image](https://github.com/user-attachments/assets/8bea0060-8a1d-4a56-ae8e-d83823e7e60a)
+
 ![image](https://github.com/user-attachments/assets/c08222ec-c0fe-4465-b7d9-cb1ecd0b7d46)
 
 Membuat method baru, yaitu public void changePin untuk ubah PIN dengan verifikasi pin lama, lalu pin baru dua kali untuk konfirmasi pin, 
@@ -26,6 +26,7 @@ Hasilnya:
 # Validasi saldo minimal
 validasi saldo minimal dengan minimal saldo Rp. 50.000 terdapat Withdrawal.java
 Withdrawal.java
+
 ![image](https://github.com/user-attachments/assets/4686fb78-ae9b-4866-a2e2-c5d224d25007)
 
 jika saldo 50.000 tidak bisa melakukan penarikan, karena minimal saldo 50.000 maka jika ingin melakukan penarikan saldo 
@@ -37,8 +38,11 @@ hasilnya:
 
 Dengan menambahkan fitur ubah pin dan validasi saldo minimal maka ada penambahan case pada method showMenu di public class ATM
 ATM.java
+
 ![image](https://github.com/user-attachments/assets/2b4f6c2f-3777-4635-9350-b01152de39ff)
+
 ![image](https://github.com/user-attachments/assets/04c59d3e-a5fb-4e44-8ec2-344d5baac538)
+
 ![image](https://github.com/user-attachments/assets/bd5af902-5e25-48f7-87dc-96ff452c3d47)
 
 
@@ -46,6 +50,7 @@ ATM.java
 - Account.java
 
 ![image](https://github.com/user-attachments/assets/8bea0060-8a1d-4a56-ae8e-d83823e7e60a)
+
 ![image](https://github.com/user-attachments/assets/c08222ec-c0fe-4465-b7d9-cb1ecd0b7d46)
 
 
@@ -66,13 +71,16 @@ ATM.java
 
 
 - Withdrawal.java
+
 ![image](https://github.com/user-attachments/assets/12e49834-9c3f-4be8-aebb-a4b81acefd00)
 
 
 - ATM.java
 
 ![image](https://github.com/user-attachments/assets/2b4f6c2f-3777-4635-9350-b01152de39ff)
+
 ![image](https://github.com/user-attachments/assets/04c59d3e-a5fb-4e44-8ec2-344d5baac538)
+
 ![image](https://github.com/user-attachments/assets/bd5af902-5e25-48f7-87dc-96ff452c3d47)
 
 
