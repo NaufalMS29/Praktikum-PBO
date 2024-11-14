@@ -1,8 +1,8 @@
 
-##Praktikum 10 
+# Praktikum 10 
 
 
-##Penjelasan tentang menambahkan fitur ubah pin dan validasi saldo minimal  
+# Penjelasan tentang menambahkan fitur ubah pin dan validasi saldo minimal  
 
 
 - `import com.atm.model.Account` = mengimpor class Account dari package com.atm.model.
@@ -11,7 +11,7 @@
 - `import java.util.Map` = mengimpor class java untuk mendifinisikan struktur data. 
 - `import java.util.Scanner` = mengimpor class java untuk melakukan inputan.
 
-##Menambahkan fitur ubah pin
+# Menambahkan fitur ubah pin
 fitur ubah terdapat pada Account.java
 Account.java
 ![image](https://github.com/user-attachments/assets/8bea0060-8a1d-4a56-ae8e-d83823e7e60a)
@@ -23,7 +23,7 @@ Hasilnya:
 
 ![image](https://github.com/user-attachments/assets/6de2203d-4a4d-4ada-8020-a9a68cf38ca1)
 
-##Validasi saldo minimal
+# Validasi saldo minimal
 validasi saldo minimal dengan minimal saldo Rp. 50.000 terdapat Withdrawal.java
 Withdrawal.java
 ![image](https://github.com/user-attachments/assets/4686fb78-ae9b-4866-a2e2-c5d224d25007)
@@ -42,7 +42,7 @@ ATM.java
 ![image](https://github.com/user-attachments/assets/bd5af902-5e25-48f7-87dc-96ff452c3d47)
 
 
-##Screenshot seluruh code
+# Screenshot seluruh code
 - Account.java
 
 ![image](https://github.com/user-attachments/assets/8bea0060-8a1d-4a56-ae8e-d83823e7e60a)
