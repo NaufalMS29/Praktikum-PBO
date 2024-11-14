@@ -29,6 +29,7 @@ Withdrawal.java
 
 ![image](https://github.com/user-attachments/assets/4686fb78-ae9b-4866-a2e2-c5d224d25007)
 
+Dengan menambahkan private static final double minimum_saldo = 50000 artinya konstanta yang tidak dapat diubah atau nilai 50000 tidak dapat diubah
 jika saldo 50.000 tidak bisa melakukan penarikan, karena minimal saldo 50.000 maka jika ingin melakukan penarikan saldo 
 harus lebih dari 50.000 bisa melakukan penarikan. Apabila penarikan (jumlah saldo - input yang ingin ditarik) kurang dari 50.000
 maka penarikan batal dan mesin menampilkan pesan ("Saldo tidak mencukupi untuk penarikan dengan saldo minimal Rp50,000.").
