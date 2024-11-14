@@ -4,7 +4,7 @@ import com.atm.model.Account;
 import java.util.Scanner;
 
 public class Withdrawal extends Transaction {
-    private static final double MINIMUM_BALANCE = 50000;
+    private static final double minimum_saldo = 50000;
     private Account account;
 
     public Withdrawal(Account account) {
@@ -18,7 +18,7 @@ public class Withdrawal extends Transaction {
         System.out.print("Masukkan jumlah penarikan: ");
         double amount = scanner.nextDouble();
 
-        if (amount <= account.getBalance() - MINIMUM_BALANCE) {
+        if (amount <= account.getBalance() - minimum_saldo) {
             account.debit(amount);
             System.out.println("Penarikan berhasil. Saldo Anda sekarang: " + account.getBalance());
         } else {
