@@ -39,8 +39,6 @@ hasilnya:
 Dengan menambahkan fitur ubah pin dan validasi saldo minimal maka ada penambahan case pada method showMenu di public class ATM
 ATM.java
 
-![image](https://github.com/user-attachments/assets/2b4f6c2f-3777-4635-9350-b01152de39ff)
-
 ![image](https://github.com/user-attachments/assets/04c59d3e-a5fb-4e44-8ec2-344d5baac538)
 
 ![image](https://github.com/user-attachments/assets/bd5af902-5e25-48f7-87dc-96ff452c3d47)
